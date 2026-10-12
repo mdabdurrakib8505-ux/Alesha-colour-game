@@ -1,0 +1,6 @@
+{
+  "name": "Princess Coloring",
+  "description": "Magical offline princess coloring book featuring relaxing brushes, spray paint, sparkles, rainbow palettes, fairy tale pages, and creative stickers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
